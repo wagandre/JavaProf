@@ -1,4 +1,4 @@
-package lesson2.task2;
+package Lessons.lesson2.task2;
 
 public class AnimalTest {
     public static void main(String[] args) {

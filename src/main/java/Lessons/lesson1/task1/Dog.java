@@ -1,4 +1,4 @@
-package lesson1.task1;
+package Lessons.lesson1.task1;
 
 public class Dog {
     private String color;

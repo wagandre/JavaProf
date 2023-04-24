@@ -1,8 +1,8 @@
-package lesson1.task2;
+package Lessons.lesson1.task2;
 
 
-import lesson1.task3.Cat;
-import lesson1.task1.Dog;
+import Lessons.task3.Cat;
+import Lessons.lesson1.task1.Dog;
 
 public class Test {
     public static void main(String[] args) {

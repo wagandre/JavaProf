@@ -1,16 +1,14 @@
-package lesson2.task2;
+package Lessons.lesson2.task2;
 
-public class Dog extends LandAnimal {
-
+public class Cat extends LandAnimal{
     @Override
     public void voice() {
-        System.out.println("Gav!");
-
+        System.out.println("Mjau!");
     }
 
     @Override
     public void walk() {
-        System.out.println("I go!");
+        System.out.println("I go");
 
     }
 

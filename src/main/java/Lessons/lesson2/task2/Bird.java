@@ -1,4 +1,4 @@
-package lesson2.task2;
+package Lessons.lesson2.task2;
 
 public class Bird extends Animal implements Flyable{
     @Override
