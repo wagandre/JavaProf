@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dd3514-420d-4b09-9313-d83ea5bbdcfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaPractice/lesson1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryJava/lesson1/CatDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryJava/lesson1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryJava/lesson1/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework1/first/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework1/first/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework1/second/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework1/second/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task1/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task1/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/task3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1/Ananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task1/FruitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/FlyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson2/task2/LandAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b6dd3514-420d-4b09-9313-d83ea5bbdcfa" name="Changes" comment="Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,6 +135,25 @@
       <option name="presentableId" value="Default" />
       <updated>1681805720373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java">
+      <created>1682349602791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682349602791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java">
+      <created>1682349792883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682349792883</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java" />
   </component>
 </project>
