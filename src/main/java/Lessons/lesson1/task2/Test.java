@@ -1,8 +1,9 @@
 package Lessons.lesson1.task2;
 
 
-import Lessons.task3.Cat;
+
 import Lessons.lesson1.task1.Dog;
+import Lessons.lesson2.task2.Cat;
 
 public class Test {
     public static void main(String[] args) {
