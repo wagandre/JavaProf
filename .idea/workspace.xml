@@ -4,7 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dd3514-420d-4b09-9313-d83ea5bbdcfa" name="Changes" comment="Java" />
+    <list default="true" id="b6dd3514-420d-4b09-9313-d83ea5bbdcfa" name="Changes" comment="Java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaPractice/lesson3/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task2/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task2/CityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task3/Deal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task2/AutoboxingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task3/AutoboxingMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task4/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task1/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task1/BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/SeaBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task1/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/IteratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/MyListArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/TestMyListArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task1/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/EnumerationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/IteratorTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task3/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task4/SpliteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson8/task1/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson8/task1/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryJava/lesson3/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/DayAnalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +59,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -41,22 +87,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Apps/JavaProf/Java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Apps/JavaProf/Крестики Нолики&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PhoneTest">
-    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.task2.AnimalTest" />
+}</component>
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="EnumerationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task2.EnumerationTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.task2.*" />
+          <option name="PATTERN" value="Lessons.lesson7.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.task2.FlyTest" />
+    <configuration name="IteratorTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task2.IteratorTesting" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson2.task2.*" />
+          <option name="PATTERN" value="Lessons.lesson7.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework1.first.PersonTest" />
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task3.ListIteratorTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework1.first.*" />
+          <option name="PATTERN" value="Lessons.lesson7.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework1.second.PhoneTest" />
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson8.task1.ListTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework1.second.*" />
+          <option name="PATTERN" value="Lessons.lesson8.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummaryJava.lesson1.DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SummaryJava.lesson1.DogTest" />
+    <configuration name="SpliteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task4.SpliteratorTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SummaryJava.lesson1.*" />
+          <option name="PATTERN" value="Lessons.lesson7.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhoneTest" />
-        <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.SummaryJava.lesson1.DogTest" />
-        <item itemvalue="Application.FlyTest" />
-        <item itemvalue="Application.AnimalTest" />
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.SpliteratorTest" />
+        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.EnumerationTest" />
+        <item itemvalue="Application.IteratorTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +216,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682350736843</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Java">
+      <created>1682350982505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682350982505</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Java">
+      <created>1682351124486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682351124486</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
