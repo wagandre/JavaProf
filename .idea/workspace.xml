@@ -5,61 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6dd3514-420d-4b09-9313-d83ea5bbdcfa" name="Changes" comment="Java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaPractice/lesson3/CoffeeMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task2/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task2/CityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task3/Deal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task2/AutoboxingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task3/AutoboxingMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task4/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson4/task5/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task1/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task1/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/SeaBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson5/task2/Unit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task1/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/IteratorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/MyListArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson6/task2/TestMyListArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task1/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/EnumerationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task2/IteratorTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task3/ListIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson7/task4/SpliteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson8/task1/ListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson8/task1/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SummaryJava/lesson3/task1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task1/SedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task1/SortedSedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task2/ConcurrentSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task2/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task3/ArrayToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson9/task4fromPractice/Solutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework2/CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework2/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework2/Players.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework3/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework3/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework3/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework3/SeaBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework3/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/homework5/TimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson1/task1/DogTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lessons/lesson3/task1/DayAnalog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -76,6 +55,9 @@
         <option name="workspaceImportEnabled" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2OajjEJIWeXenXP75vLmb3FoHbd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -96,13 +78,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ListTest">
-    <configuration name="EnumerationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task2.EnumerationTest" />
+  <component name="RunManager" selected="Application.TimeTest">
+    <configuration name="CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework2.CardGame" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.lesson7.task2.*" />
+          <option name="PATTERN" value="homeworks.homework2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task2.IteratorTesting" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.lesson6.task2.Example" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.lesson7.task2.*" />
+          <option name="PATTERN" value="Lessons.lesson6.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task3.ListIteratorTest" />
+    <configuration name="SeaBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework3.SeaBattle" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.lesson7.task3.*" />
+          <option name="PATTERN" value="homeworks.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.lesson8.task1.ListTest" />
+    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework5.TimeTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.lesson8.task1.*" />
+          <option name="PATTERN" value="homeworks.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpliteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.lesson7.task4.SpliteratorTest" />
+    <configuration name="homeworks.homework4.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework4.Test" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.lesson7.task4.*" />
+          <option name="PATTERN" value="homeworks.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.SpliteratorTest" />
-        <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.EnumerationTest" />
-        <item itemvalue="Application.IteratorTesting" />
+        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.homeworks.homework4.Test" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.SeaBattle" />
+        <item itemvalue="Application.CardGame" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682351124486</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java">
+      <created>1684145642954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684145642955</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
